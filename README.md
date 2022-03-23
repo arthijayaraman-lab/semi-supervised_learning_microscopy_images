@@ -1,5 +1,4 @@
 # Self-supervised machine learning models for analysis of nanowire morphologies from TEM images
-![image](https://user-images.githubusercontent.com/59634824/159770396-0238cd73-784e-43e0-98bf-4e4305c97933.png)
 
 This repository contains implementation of self-supervised transfer learning workflow for nanowire morphology classification and segmentation from transmission electron microscopy (TEM) images.
 Paper: Self-supervised machine learning model for analysis of nanowire morphologies from transmission electron microscopy images in chemrixv
