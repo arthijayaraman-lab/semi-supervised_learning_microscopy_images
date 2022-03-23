@@ -1,2 +1,2 @@
-# Self-Supervised_Learning_Microscopy_Images
+# self-supervised_learning_microscopy_images
 ## hello
