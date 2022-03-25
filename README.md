@@ -12,4 +12,4 @@ The TEM image dataset of the nanowire morphologies is hosted on Zenodo, DOI: 10.
 ## Citing
 
 ## Funding
-This project is financially supported by the U.S. National Science Foundation, Grant NSF DMREF #1921871.
+This project is financially supported by the U.S. National Science Foundation, Grant NSF DMREF #1921839 #1921871.
