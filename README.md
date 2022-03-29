@@ -10,6 +10,13 @@ The peptide / protein nanowires used in this study were synthesized and imaged b
 
 The TEM image dataset of the nanowire morphologies is hosted on Zenodo, DOI: 10.5281/zenodo.6377141
 ## Citing
-
+@misc{lu2022selfsupervised,
+      title={Self-supervised machine learning model for analysis of nanowire morphologies from transmission electron microscopy images}, 
+      author={Shizhao Lu and Brian Montz and Todd Emrick and Arthi Jayaraman},
+      year={2022},
+      eprint={2203.13875},
+      archivePrefix={arXiv},
+      primaryClass={cond-mat.mtrl-sci}
+}
 ## Funding
 This project is financially supported by the U.S. National Science Foundation, Grant NSF DMREF #1921839 #1921871.
