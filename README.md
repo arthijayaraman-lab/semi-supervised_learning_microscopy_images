@@ -4,7 +4,7 @@
 
 This repository contains implementation of self-supervised transfer learning workflow for nanowire morphology classification and segmentation from transmission electron microscopy (TEM) images.
 
-Paper: [Self-supervised machine learning model for analysis of nanowire morphologies from transmission electron microscopy images](https://arxiv.org/abs/2203.13875) in ArXiv
+Paper: [Self-supervised machine learning model for analysis of nanowire morphologies from transmission electron microscopy images](https://arxiv.org/abs/2203.13875) in arXiv
 ## Dataset
 The peptide / protein nanowires used in this study were synthesized and imaged by Brian Montz in Prof. Todd Emrick's research group at the Department of Polymer Science and Engineering Department, University of Massachusetts Amherst. 
 
