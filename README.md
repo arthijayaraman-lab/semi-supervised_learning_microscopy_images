@@ -22,4 +22,4 @@ If you use the codes in this repository, please cite the following [manuscript](
 }
 ```
 ## Funding
-This project is financially supported by the U.S. National Science Foundation, Grant NSF DMREF #1921839 #1921871.
+This project is financially supported by the U.S. National Science Foundation, Grant NSF DMREF #1921839 and #1921871.
