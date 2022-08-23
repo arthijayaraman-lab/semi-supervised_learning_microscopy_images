@@ -8,7 +8,7 @@ Paper: [Semi-supervised machine learning workflow for analysis of nanowire morph
 ## Dataset
 The peptide / protein nanowires used in this study were synthesized and imaged by Brian Montz in Prof. Todd Emrick's research group at the Department of Polymer Science and Engineering Department, University of Massachusetts Amherst. 
 
-The TEM image dataset of the nanowire morphologies along with manual segmentation masks and image encoders trained via self-supervised training are hosted on Zenodo, [DOI: 10.5281/zenodo.6377140](https://zenodo.org/record/6377140)
+The TEM image dataset of the nanowire morphologies along with manual segmentation ground truth masks and image encoders trained via self-supervised training are hosted on Zenodo, [DOI: 10.5281/zenodo.6377140](https://zenodo.org/record/6377140)
 ## Citing
 If you use the codes in this repository, please cite the following [manuscript](https://arxiv.org/abs/2203.13875):
 ```
