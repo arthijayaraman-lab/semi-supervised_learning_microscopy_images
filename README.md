@@ -39,6 +39,8 @@ Create a folder named "TEM image datasets" in your google drive and upload the u
 
 Additional folders that are needed to be created (under the main folder "TEM image datasets") to store intermediate models and figures are mentioned in the beginning of each individual notebooks if necessary. These should be created manually when you see the text requirement that's different for each notebook (some may not need additional folder creation).
 
+The notebooks can be adapted to test on different user-provided datasets with modifications.
+
 ## Citing
 If you use the codes in this repository, please cite the following [manuscript](https://arxiv.org/abs/2203.13875):
 ```
