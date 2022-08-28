@@ -39,6 +39,8 @@ Create a folder named "TEM image datasets" in your google drive and upload the u
 
 Additional folders that are needed to be created (under the main folder "TEM image datasets") to store intermediate models and figures are mentioned in the beginning of each individual notebooks if necessary. These should be created manually when you see the text requirement that's different for each notebook (some may not need additional folder creation).
 
+Notebooks can then be run on google Colab. For the [SimCLR_Barlow_encoder_training](https://github.com/arthijayaraman-lab/self-supervised_learning_microscopy_images/blob/main/notebooks/SimCLR_Barlow_encoder_training.ipynb) and [Training_of_segmentation_models](https://github.com/arthijayaraman-lab/self-supervised_learning_microscopy_images/blob/main/notebooks/training_of_segmentation_models.ipynb), users should use GPU runtime on google Colab. The rest of the notebooks can be run on CPU runtime (No GPU).
+
 The notebooks can be adapted to test on different user-provided datasets with modifications.
 
 ## Citing
