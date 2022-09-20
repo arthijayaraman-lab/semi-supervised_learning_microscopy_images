@@ -4,7 +4,8 @@
 
 This repository contains implementation of semi-supervised transfer learning workflow for nanowire morphology classification and segmentation from transmission electron microscopy (TEM) images.
 
-Paper: [Semi-supervised machine learning workflow for analysis of nanowire morphologies from transmission electron microscopy images](https://arxiv.org/abs/2203.13875) is available in arXiv
+Paper: [Semi-supervised machine learning workflow for analysis of nanowire morphologies from transmission electron microscopy images](https://doi.org/10.1039/D2DD00066K) is available at Digital Discovery as an accepted manuscript.
+
 ## Dataset
 The peptide / protein nanowires used in this study were synthesized and imaged by Brian Montz in Prof. Todd Emrick's research group at the Department of Polymer Science and Engineering Department, University of Massachusetts Amherst. 
 
@@ -44,16 +45,8 @@ Notebooks can then be run on google Colab. For the [SimCLR_Barlow_encoder_traini
 The notebooks can be adapted to test on different user-provided datasets with modifications.
 
 ## Citing
-If you use the codes in this repository, please cite the following [manuscript](https://arxiv.org/abs/2203.13875):
-```
-@misc{lu2022selfsupervised,
-      title={Self-supervised machine learning model for analysis of nanowire morphologies from transmission electron microscopy images}, 
-      author={Shizhao Lu and Brian Montz and Todd Emrick and Arthi Jayaraman},
-      year={2022},
-      eprint={2203.13875},
-      archivePrefix={arXiv},
-      primaryClass={cond-mat.mtrl-sci}
-}
-```
+If you use the codes in this repository, please cite the following [manuscript](https://doi.org/10.1039/D2DD00066K):
+S. Lu, B. Montz, T. Emrick and A. Jayaraman, Digital Discovery, 2022, Accepted Manuscript , DOI: 10.1039/D2DD00066K
+
 ## Funding
 This project is financially supported by the U.S. National Science Foundation, Grant NSF DMREF #1921839 and #1921871.
