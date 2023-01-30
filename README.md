@@ -46,7 +46,7 @@ The notebooks can be adapted to test on different user-provided datasets with mo
 
 ## Citing
 If you use the codes in this repository, please cite the following [manuscript](https://doi.org/10.1039/D2DD00066K):
-S. Lu, B. Montz, T. Emrick and A. Jayaraman, Digital Discovery, 2022, Accepted Manuscript , DOI: 10.1039/D2DD00066K
+S. Lu, B. Montz, T. Emrick and A. Jayaraman, Digital Discovery, 2022, 1, 816 DOI: 10.1039/D2DD00066K
 
 ## Funding
 This project is financially supported by the U.S. National Science Foundation, Grant NSF DMREF #1921839 and #1921871.
